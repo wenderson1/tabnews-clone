@@ -1,7 +1,7 @@
 function Home(){
     const content = (<div>
-                        <h1>Anel</h1>
-                        <img src="../images/denso-malisa.jpg"/>
+                        <h1>Não fica brava se eu não consegui te atender amorzinho! :< </h1>
+                        <img src="https://github.com/wenderson1/tabnews-clone/blob/main/images/denso-malisa.jpg"/>
                     </div>)
     return content;
 }
